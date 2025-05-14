@@ -20,7 +20,7 @@ int main(){
     else if(BMI>=25 && BMI<=25.9){
         printf("Overweight");
     }
-    else if(BMI>=17.6 && BMI<=18.5){
+    else if(BMI>=30 && BMI<=30.9){
         printf("Obese");
     }
     else{
