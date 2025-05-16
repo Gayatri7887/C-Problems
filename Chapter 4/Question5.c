@@ -1,3 +1,7 @@
+/*
+Three sides of a triangle are entered through the keyboard. Write a program to check if it is a  
+Right-angled Triangle, Equilateral triangle, Isosceles Triangle Or Scalene Triangle.
+*/
 #include <stdio.h>
 int main(){
     float a, b, c;

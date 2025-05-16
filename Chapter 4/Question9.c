@@ -1,3 +1,4 @@
+/*WAP to finf BMI and catagorize it */
 #include<stdio.h>
 int main(){
     float weight, height, BMI;
